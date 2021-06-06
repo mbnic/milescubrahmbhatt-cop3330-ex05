@@ -1,5 +1,6 @@
 package base;
 
 public class Number {
-    int value;
+    String stringValue;
+    int intValue;
 }
